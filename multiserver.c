@@ -130,7 +130,7 @@ int main()
 		return 1;
 	}
 	
-	//Listen for connections, accepts a maximum of 20 simultaneous connections
+	//Listen for incoming connections, accepts a maximum of 20 simultaneous connections
 	listen(server_socket,20);
 	printf("Listening for connections...\n");
 
