@@ -1,3 +1,5 @@
+/* Client program that can remotely control the server to perform specific actions */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
