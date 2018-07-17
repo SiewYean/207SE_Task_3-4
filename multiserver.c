@@ -1,3 +1,6 @@
+/* Server program that can handle multiple clients with remote control features */
+/* 'cc multiserver.c -lpthread -o server' to compile the program */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
